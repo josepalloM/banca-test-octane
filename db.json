@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "José Pallo",
+      "empresa": "SAGGA",
+      "email": "pallo.david@saggaac.com",
+      "telefono": "0989936358",
+      "notas": "Cliente Potencial\n",
+      "id": 1
+    }
+  ]
+}
